@@ -937,3 +937,23 @@ https://youtube.com/playlist?list=PLmZzyjM-vqX6f0WQYhHgIv5K-esMRcbyr[Go to Resou
 ------
 ----
 //end card
+
+//start card  
+[openblock,card resource-card text-center shadow relative level-Advaned]
+----
+[openblock,title mt-medium]
+------
+[discrete]
+=== Building a More Reliable Checkout Service at Scale with Kotlin, Cassandra, Kafka, Cadence, and gRPC.
+[openblock, res-tags]
+--------
+Community, Webinar
+--------
+------
+[openblock,card-btn]
+------
+[.btn.btn--alt]
+https://doordash.engineering/2021/02/02/building-a-more-reliable-checkout-service-with-kotlin/[Go to Resource,window=_blank]
+------
+----
+//end card
